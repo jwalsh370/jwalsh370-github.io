@@ -144,6 +144,7 @@ a:active {
 .about-header {
   padding-top: 170px;
   height: 850px;
+  width: 115%;
   background: cornflowerBlue    no-repeat center;
   background-size: cover;
   text-align: center;
