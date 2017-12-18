@@ -1,0 +1,25 @@
+{
+  "name": "jwalsh370.github.io",
+  "version": "1.0.0",
+  "description": "Github hosted Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh370/jwalsh370-github.io.git"
+  },
+  "keywords": [
+    "git-portfolio"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwalsh370/jwalsh370-github.io/issues"
+  },
+  "homepage": "https://github.com/jwalsh370/jwalsh370-github.io#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
