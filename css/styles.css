@@ -144,9 +144,9 @@ a:active {
 .about-header {
   padding-top: 170px;
   height: 850px;
-  background: cornflowerBlue    no-repeat center;
+  width: 100%;
+  background: cornflowerBlue   no-repeat center;
   background-size: cover;
-  text-align: center;
 }
 
 .about-header-text{
@@ -252,6 +252,15 @@ a:active {
   /* padding-left: 1em; */
   align-content: center;
   width: 115%;
+  background-color: #ececec;
+  background-position: relative;
+}
+
+#about-nav {
+	list-style: none;
+  /* padding-left: 1em; */
+  align-content: center;
+  width: 100%;
   background-color: #ececec;
   background-position: relative;
 }
