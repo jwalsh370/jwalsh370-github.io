@@ -74,9 +74,10 @@ a:active {
 .main-header{
   padding-top: 170px;
   height: 850px;
-  width: 100%;
+  width: 110%;
   background: cornflowerBlue   no-repeat center;
   background-size: cover;
+  position: relative;
 }
 
 .about-header {
