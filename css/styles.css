@@ -94,6 +94,7 @@ a:active {
 .title {
   color: white;
   font-size: 4em; /* 48px */
+  text-align: center;
 }
 
 .intro {
@@ -103,7 +104,8 @@ a:active {
 
 .primary-content,
 .main-header,
-.main-footer {
+.main-footer,
+.about-header {
   text-align: center;
 }
 
@@ -147,16 +149,19 @@ a:active {
   width: 100%;
   background: cornflowerBlue   no-repeat center;
   background-size: cover;
+  text-align: center;
 }
 
 .about-header-text{
   color: #F3D250;
+  text-align: center;
 }
 
 
 .section-title{
   color: #F78888;
   font-size: 1.25em;
+  
 }
 
 .music-bar{
