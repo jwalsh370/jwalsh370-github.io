@@ -74,7 +74,7 @@ a:active {
 .main-header{
   padding-top: 170px;
   height: 850px;
-  width: 115%;
+  width: 100%;
   background: cornflowerBlue   no-repeat center;
   background-size: cover;
   position: relative;
@@ -161,7 +161,7 @@ a:active {
 .section-title{
   color: #F78888;
   font-size: 1.25em;
-  
+
 }
 
 .music-bar{
@@ -256,7 +256,7 @@ a:active {
 	list-style: none;
   /* padding-left: 1em; */
   align-content: center;
-  width: 115%;
+  width: 100%;
   background-color: #ececec;
   background-position: relative;
 }
